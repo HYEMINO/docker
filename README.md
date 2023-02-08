@@ -12,7 +12,7 @@
   6) hello-world를 실행하여 docker 엔진 설치 정상 확인
 
 3. Docker hub
-  - 회원가입 후 저장소 생성 (Repositories 메뉴)
+  1) 회원가입 후 저장소 생성 (Repositories 메뉴)
 
 4. Docker file 생성
   1) docker file을 담을 디렉토리 생성
